@@ -4,12 +4,6 @@ This project is a Machine Learning-based web application that predicts whether a
 
 ---
 
-🚀 Live Demo
-
-(After deployment, add your Streamlit link here)
-
----
-
 📌 Features
 
 * Predicts heart disease risk using Machine Learning
